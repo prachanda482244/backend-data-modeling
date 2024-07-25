@@ -1,1 +1,1 @@
-console.log("Hello javascript and fuck you admin");
+console.log("Hello javascript");
